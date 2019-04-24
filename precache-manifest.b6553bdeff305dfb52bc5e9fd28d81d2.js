@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/kenjirai/signthedoc/static/css/2.f56ec393.chunk.css"
   },
   {
-    "revision": "ed655737d8535711b9cf00ef75a25dd0",
+    "revision": "bfd116ddaebfd8e3051f8a6b6e1733c2",
     "url": "/kenjirai/signthedoc/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kenjirai/signthedoc/precache-manifest.428011f43e878a0646717e64ac63b1ff.js"
+  "/kenjirai/signthedoc/precache-manifest.b6553bdeff305dfb52bc5e9fd28d81d2.js"
 );
 
 workbox.clientsClaim();
